@@ -1,0 +1,65 @@
+@media  (max-width: 767px) and (min-width:480px){
+
+
+    .a{
+        background-color: #325288;
+    }
+    .b{
+        background-color:#f4eee8 ;
+    }
+    .c{
+        background-color:#f5cebe ;
+    }
+    .d{
+        background-color:#114e60 ;
+    }
+    .e{
+        background-color:#542e71 ;
+    }
+    .f{
+        background-color:#fb3640 ;
+    }
+    .g{
+        background-color:#fdca40 ;
+    }
+    .h{
+        background-color:#a799b7 ;
+    }
+    .i{
+        background-color:#ff9a8c ;
+    }
+    
+}
+
+@media  (max-width: 960px) and (min-width:768px){
+
+
+    .a{
+        background-color: #8ab6d6;
+    }
+    .b{
+        background-color:#798777 ;
+    }
+    .c{
+        background-color:#2978b5 ;
+    }
+    .d{
+        background-color:#ce1212 ;
+    }
+    .e{
+        background-color:#ff8303 ;
+    }
+    .f{
+        background-color:#a35709 ;
+    }
+    .g{
+        background-color:#845460 ;
+    }
+    .h{
+        background-color:#81b214 ;
+    }
+    .i{
+        background-color:#ffcc29 ;
+    }
+    
+}
