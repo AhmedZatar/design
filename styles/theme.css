@@ -1,5 +1,6 @@
-@media  (max-width: 767px) and (min-width:480px){
+@media  (max-width: 767px){
 
+    /* mobile  */
 
     .a{
         background-color: #325288;
@@ -31,7 +32,9 @@
     
 }
 
-@media  (max-width: 960px) and (min-width:768px){
+@media  (min-width:960px){
+
+    /* desktop */
 
 
     .a{
@@ -62,4 +65,37 @@
         background-color:#ffcc29 ;
     }
     
+}
+
+@media  (max-width: 959px) and (min-width:768px){
+
+    /* tablet  */
+    .a{
+        background-color: #9e9d89;
+    }
+    .b{
+        background-color:#e2bcb7 ;
+    }
+    .c{
+        background-color:#b67162 ;
+    }
+    .d{
+        background-color:#2b2e4a ;
+    }
+    .e{
+        background-color:#e84545 ;
+    }
+    .f{
+        background-color:#e9896a ;
+    }
+    .g{
+        background-color:#845460 ;
+    }
+    .h{
+        background-color:#e4bad4 ;
+    }
+    .i{
+        background-color:#cee6b4 ;
+    }
+
 }
